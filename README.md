@@ -4,6 +4,8 @@ I made it because I didn't label my Pis, and it was a pain to tell them apart. N
 
 Productive laziness it is.
 
+The pattern lights the ACT to the sound of "It's-a me" from Super Mario.
+
 ## Usage
 
 Run this command on your Raspberry Pi:
