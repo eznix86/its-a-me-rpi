@@ -4,3 +4,9 @@ I made a little script to tell which RPi is it, because I didn't label my pi, so
 
 My pattern was "It's-a me" from Mario.
 
+
+## Usage
+
+```sh
+curl -S https://raw.githubusercontent.com/eznix86/its-a-me-rpi/main/me.sh | bash
+```
