@@ -1,12 +1,13 @@
-# It's-a me Rasberry Pi
+# It's-a Me, Raspberry Pi!
 
-I made a little script to tell which RPi is it, because I didn't label my pi, so i can run a script which blinks.
+I made it because I didn't label my Pis, and it was a pain to tell them apart. Now, you can just run the script and instantly know which one is which.
 
-My pattern was "It's-a me" from Mario.
-
+Productive laziness it is.
 
 ## Usage
 
+Run this command on your Raspberry Pi:
+
 ```sh
-curl -S https://raw.githubusercontent.com/eznix86/its-a-me-rpi/main/me.sh | bash
+curl -sS https://raw.githubusercontent.com/eznix86/its-a-me-rpi/main/me.sh | bash
 ```
