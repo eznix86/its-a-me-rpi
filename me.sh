@@ -8,4 +8,4 @@ done
 sleep 0.5
 echo 0 | sudo tee $LED/brightness > /dev/null
 sleep 1
-echo mmc0 | sudo tee "$LED_PATH/trigger" > /dev/null
+echo mmc0 | sudo tee "$LED/trigger" > /dev/null
